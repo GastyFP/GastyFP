@@ -1,6 +1,12 @@
-### Hi there 👋
-- 🌱 I’m currently learning at HENRY!
 - ![Header](./github-header-image.png)
+- - 🌱 I’m currently learning at HENRY!
+
+
+
+
+
+
+
 <!--
 **GastyFP/GastyFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
