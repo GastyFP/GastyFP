@@ -3,8 +3,11 @@
 ![Im a FullStack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 What are you doing here? You spying on me huh?  🧐
+
 Well, since you are here, 
+
 i can tell you that when im not coding im probably 
+
 learning some new stuff, playing some casual games or doing crossfit at the gym!
 
 Skills:
