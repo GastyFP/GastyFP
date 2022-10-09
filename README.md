@@ -5,7 +5,7 @@
 What are you doing here? You spying on me huh?  🧐
 Well, since you are here, i can tell you that when im not coding im probably learning some new stuff, playing some casual games or doing crossfit at the gym!
 
-Skills:   REACT / REDUX/ JS / MONGODB / EXPRESS / HTML / CSS / TAILWIND
+Skills:   REACT / REDUX / JS / MONGODB / EXPRESS / HTML / CSS / TAILWIND
 
 - 🔭 I’m currently working on this page. 
 
