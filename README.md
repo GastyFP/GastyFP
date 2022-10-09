@@ -8,9 +8,8 @@ Well, since you are here, i can tell you that when im not coding im probably lea
 Skills:   REACT / REDUX / JS / MONGODB / EXPRESS / HTML / CSS / TAILWIND
 
 - 🔭 I’m currently working on personal proyects 
-- 🌱 I’m currently learning at SoyHenry.com 
+- 🌱 I’m currently learning at [SoyHenry.com](https://www.soyhenry.com/) 
 - 📫 How to reach me: gastyfp@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GastyFp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gaston-fernandez-prataviera-93a4b21a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gastyfp//)  
-
