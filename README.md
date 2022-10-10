@@ -8,7 +8,7 @@ learning some new stuff, playing some casual games or doing crossfit at the gym!
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,react,redux,express,mongodb,postgres)](https://skillicons.dev)
 
 - 🔭 I’m currently working on personal proyects 
 - 🌱 I’m currently learning at [SoyHenry.com](https://www.soyhenry.com/) 
