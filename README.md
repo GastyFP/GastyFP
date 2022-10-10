@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Gaston
-#### Im a FullStack Web Developer
-![Im a FullStack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋
+![Gaston Fernandez](https://user-images.githubusercontent.com/61922413/194785775-7e78957f-1b87-4bf3-a60d-98176e3ac1cb.png)
 
 What are you doing here? You spying on me huh?  🧐
 Well, since you are here, 
