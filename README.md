@@ -16,4 +16,4 @@ learning some new stuff, playing some casual games or doing crossfit at the gym!
 
 
 ### 🏆 Latest Proyect:
-- You can check it out [here!](https://www.mundi-app.tk/). I hope you like it! 
+- You can check it out [here!](https://www.mundi-app.tk/) I hope you like it! 
