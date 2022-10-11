@@ -6,7 +6,7 @@ Well, since you are here,
 i can tell you that when im not coding im probably 
 learning some new stuff, playing some casual games or doing crossfit at the gym!
 
-###  My Skills:
+### ✨ My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,react,redux,express,mongodb,postgres)](https://skillicons.dev)
 
