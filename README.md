@@ -13,3 +13,7 @@ learning some new stuff, playing some casual games or doing crossfit at the gym!
 - 🔭 I’m currently working on personal proyects 
 - 🌱 I’m currently learning at [SoyHenry.com](https://www.soyhenry.com/) 
 - 📫 You can reach me at LinkedIn [Here!](https://www.linkedin.com/in/gaston-fernandez-prataviera-93a4b21a2/) 
+
+
+### 🏆 Latest Proyect:
+- You can check it out [here!](https://www.mundi-app.tk/). I hope you like it! 
