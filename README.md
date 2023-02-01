@@ -11,9 +11,6 @@ learning some new stuff, playing some casual games or doing crossfit at the gym!
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,react,redux,express,mongodb,postgres)](https://skillicons.dev)
 
 - 🔭 I’m currently working on personal proyects 
-- 🌱 I’m currently learning by my own Python and Django
+- 🌱 I’m currently learning by my own Next.js and TypeScript
 - 📫 You can reach me at LinkedIn [Here!](https://www.linkedin.com/in/gaston-fernandez-prataviera-93a4b21a2/) 
 
-
-### 🏆 Latest Proyect:
-- You can check it out [here!](https://github.com/GastyFP/mundial-app) I hope you like it! 
