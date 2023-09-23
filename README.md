@@ -20,6 +20,7 @@ If you are looking to expand your team. Do not hesitate to contact me!
 #### ⏩ Programming languajes
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=PHP&logoColor=#8993be)
 
 #### ⏩ Front End
 
