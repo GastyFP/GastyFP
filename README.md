@@ -47,8 +47,7 @@ If you are looking to expand your team. Do not hesitate to contact me!
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Have a laugh while you are here 😁
-Let's get you a random programming joke.
+### Let's get you a random programming joke 😁
 
 I hope its a good one!
 
